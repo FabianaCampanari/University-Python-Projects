@@ -6,3 +6,9 @@ This repository contains the projects that I developed during my Python course a
 #
 
 ![9-Carteirinha](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/ca38e868-5167-4ca0-8539-b2190eaf585d)
+
+#
+
+⚖︎ These projects are licensed under the MIT License.
+
+Copyright (c) 2023 Fabiana Campanari - All Rights Reserved
