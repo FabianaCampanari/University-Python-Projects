@@ -5,7 +5,7 @@ This repository contains the projects that I developed during my Python course a
 
 #
 
-![9-Carteirinha](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/ca38e868-5167-4ca0-8539-b2190eaf585d)
+![giphy (1)](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/fcd9b8e1-d0c8-4463-915c-ec6819959fb9)
 
 #
 
