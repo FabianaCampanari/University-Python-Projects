@@ -5,7 +5,6 @@ This repository contains the projects that I developed during my Python course a
 
 #
 
-https://github.com/FabianaCampanari/University-Python-Projects/issues/40#issue-1728483021
 
 ![giphy (1)](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/fcd9b8e1-d0c8-4463-915c-ec6819959fb9)
 
