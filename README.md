@@ -24,5 +24,5 @@ https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/
 
 #
 
-⚖︎ This repository is licensed under the MIT License.
+<p align="center"> ⚖︎ This repository is licensed under the MIT License.  </p>
 
