@@ -16,11 +16,11 @@
 
 #
 
-Bubble Sort Algoritmo Animation
+<p align="center"> Bubble Sort Algoritmo Animation </p>
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/75228dc5-f532-4f89-838f-639cb28f1e0e" />
-</p>
+
 
 
 #
