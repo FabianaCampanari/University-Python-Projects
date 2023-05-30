@@ -1,6 +1,6 @@
-# <p align="center">  👩‍💻 University Python Codes
+# <p align="center">  👩‍💻 University Python Codes  </p>
 
-< studying with love & joy /> 🧡
+<p align="center"> < studying with love & joy /> 🧡
 
 #
 
