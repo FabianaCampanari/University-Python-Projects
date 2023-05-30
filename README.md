@@ -8,7 +8,7 @@
 
 #
 
-★ Best elucidative explanation of modulo division by remainder (%)
+<p align="center"> ★ Best elucidative explanation of modulo division by remainder (%) </p>
 
 ![2-resto da divisão inteira 2](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/176fd74d-5755-4ac0-9b6e-08e6678cf251)
 
