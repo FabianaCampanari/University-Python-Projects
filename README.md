@@ -8,7 +8,7 @@
 
 #
   
-★ Programs and Commands in Python ★
+<p align="center"> ★ Programs and Commands in Python ★
   
 #  
 
