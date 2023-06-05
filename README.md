@@ -8,24 +8,24 @@
 
 #
   
-<p align="center"> ★ Programs and Commands in Python ★
+##### <p align="center"> ★ Programs and Commands in Python ★
   
 #  
 
-<p align="center"> ★ Best elucidative explanation of modulo division by remainder (%) </p>
+##### <p align="center"> ★ Best elucidative explanation of modulo division by remainder (%) 
 
 
 ![2-resto da divisão inteira 2](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/176fd74d-5755-4ac0-9b6e-08e6678cf251)
 
-<p align="center"> ★ by Professor Vitor Furlan de Oliveira. ★ </p>
+##### <p align="center"> ★ by Professor Vitor Furlan de Oliveira. ★ </p>
 
 #
 
-<p align="center"> 🫧 Bubble Sort Algoritmo Animation. 🫧 </p>
+##### <p align="center"> 🫧 Bubble Sort Algoritmo Animation. 🫧 </p>
 
 https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/75228dc5-f532-4f89-838f-639cb28f1e0e
 
 #
 
-<p align="center"> ⚖︎ This repository is licensed under the MIT License.  </p>
+##### <p align="center"> ⚖︎ This repository is licensed under the MIT License.  </p>
 
