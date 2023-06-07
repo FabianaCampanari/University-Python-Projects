@@ -19,9 +19,7 @@
   
   - [4-print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11672308/4-print.txt)
   
-  - [5-string_Ord_Conatenation_.Repetition.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11672334/5-string_Ord_Conatenation_.Repetition.txt)
-  
-  
+ 
 
 
   
