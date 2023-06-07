@@ -15,6 +15,8 @@
 
   - [2-hello_World.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11648475/2-hello_World.txt)
   
+  - [3-main_Math_Operations.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11672260/3-main_Math_Operations.txt)
+  
 
 
   
