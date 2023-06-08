@@ -47,6 +47,6 @@ https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/
 
 #
 
-##### <p align="center"> ⚖︎ This repository is licensed under the MIT License.  </p>
+##### <p align="center"> ⚖︎ This repository is licensed under the Apachace 2.0 License.  </p>
 
 ##### <p align="center">Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
