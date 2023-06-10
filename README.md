@@ -25,6 +25,7 @@
   
   - [5b-int_If_Else.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11711459/5b-int_If_Else.txt)
 
+  - [6-Funtion.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11711465/6-Funtion.txt)
 
 
   
