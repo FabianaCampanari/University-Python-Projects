@@ -40,6 +40,9 @@
   - [6f-function_Return_Value.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713805/6f-function_Return_Value.txt)
   
   - [6g-function_Parameteres.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713806/6g-function_Parameteres.txt)
+  
+  - [7-while_.Counter_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713810/7-while_.Counter_Variable.txt)
+
 
 
 
