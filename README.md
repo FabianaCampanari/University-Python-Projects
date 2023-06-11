@@ -30,6 +30,8 @@
   - [6a-global_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11711468/6a-global_Variable.txt)
   
   - [6b-function_Sum_Print.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11711470/6b-function_Sum_Print.txt)
+  
+  - [6c-function_Sum_Print.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713794/6c-function_Sum_Print.txt)
 
 
   
