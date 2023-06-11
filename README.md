@@ -33,6 +33,8 @@
   
   - [6c-function_Sum_Print.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713794/6c-function_Sum_Print.txt)
 
+  - [6d-function_Boolean_Flag.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713798/6d-function_Boolean_Flag.txt)
+
 
   
   
