@@ -47,6 +47,9 @@
   - [7b-while_Boolean_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730329/7b-while_Boolean_Variable.txt)
   
   - [7c-fstring_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730346/7c-fstring_Formatting.txt)
+  
+  - [7d-.2f_String_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730388/7d-.2f_String_Formatting.txt)
+
 
 
   
