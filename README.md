@@ -60,10 +60,6 @@
   
   - [8d-nested_Loop_Clock_Seconds.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779341/8d-nested_Loop_Clock_Seconds.txt)
 
-
-
-
-
   
   
 #  
