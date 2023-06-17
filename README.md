@@ -57,6 +57,9 @@
   - [8b-while_If_Continue.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779313/8b-while_If_Continue.txt)
 
   - [8c-while_Repeat_Until_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779320/8c-while_Repeat_Until_Break.txt)
+  
+  - [8d-nested_Loop_Clock_Seconds.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779341/8d-nested_Loop_Clock_Seconds.txt)
+
 
 
 
