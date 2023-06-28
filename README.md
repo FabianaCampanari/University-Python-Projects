@@ -53,8 +53,7 @@
   
   - [8a-whiile_If_Else_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779306/8a-whiile_If_Else_Break.txt)
   
-  - [8b-while_If_Continue.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11779313/8b-while_If_Continue.txt)
-
+ 
 
   
 
