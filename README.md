@@ -43,7 +43,6 @@
   
   - [7a-whilw_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730291/7a-whilw_Accumulator_Variable.txt)
 
-  - [7b-whil
 
 
 #  
