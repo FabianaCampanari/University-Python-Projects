@@ -47,7 +47,7 @@
   
   - [7c-fstring_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730346/7c-fstring_Formatting.txt)
   
-  - [7d-.2f_String_Formatting.txt](https://github
+  - [7d-.2f_String_For
 
 
   
