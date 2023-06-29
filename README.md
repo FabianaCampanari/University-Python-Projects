@@ -44,20 +44,8 @@
   - [7a-whilw_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730291/7a-whilw_Accumulator_Variable.txt)
 
   - [7b-while_Boolean_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11730329/7b-while_Boolean_Variable.txt)
-  
-
-  
 
 
-
-  
- 
- 
-
-  
-
-  
-  
 #  
 
 ##### <p align="center"> ★ Best elucidative explanation of modulo division by remainder (%) 
