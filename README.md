@@ -39,6 +39,8 @@
 
 - [6g-function_Parameteres.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996163/6g-function_Parameteres.txt)
 
+- [7-while_.Counter_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996164/7-while_.Counter_Variable.txt)
+
 
   
 
