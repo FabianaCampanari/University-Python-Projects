@@ -41,7 +41,6 @@
 
 - [7-while_.Counter_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996164/7-while_.Counter_Variable.txt)
 
-- [7a-whilw_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996173/7a-whilw_Accumulator_Variable.txt)
 
 
 
