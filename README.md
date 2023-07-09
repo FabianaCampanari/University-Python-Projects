@@ -37,6 +37,9 @@
 
 - [6f-function_Return_Value.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996156/6f-function_Return_Value.txt)
 
+- [6g-function_Parameteres.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996163/6g-function_Parameteres.txt)
+
+
   
 
 
