@@ -43,6 +43,7 @@
 
 - [7a-while_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996250/7a-while_Accumulator_Variable.txt)
 
+- [7b-while_Boolean_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996269/7b-while_Boolean_Variable.txt)
 
 
 
