@@ -1,4 +1,4 @@
-# <p align="center">  🐍 University Python Codes  </p>
+# <p align="center">  🎓 University Python Codes  </p>
 
 
 ✨ This repository contains some codes that I developed in Python in the 1st - 2nd Semester of the Programming Language course of the Undergraduate in Systems Analysis and Development at Impacta University, São Paulo, Brazil 🇧🇷. Here you will find examples of code, exercises, challenges and solutions for various problems. The codes cover topics such as data analysis, programming and more. I hope you enjoy and learn from my codes.
@@ -7,7 +7,7 @@
 
 #
   
-##### <p align="center"> ★ Programs and Commands in Python ★
+##### <p align="center"> 🐍  Programs and Commands in Python 
   
   - [1-show_Numbers_Screen.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11672246/1-show_Numbers_Screen.txt)
 
