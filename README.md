@@ -80,6 +80,10 @@
 
 Operator Precedence Chart, with Arithmetic Operators:
 
+![1-Quadro de Precedencia e Associatividade dos Operadores Aritmético, Relacionais e Logicos (Booleanos)](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/67a48cb0-89a4-4c4b-a12e-b2e53b62d997)
+
+#
+
 
 ##### <p align="center"> 🫧 Bubble Sort Algoritmo Animation. 🫧 </p>
 
