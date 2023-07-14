@@ -59,6 +59,7 @@
 
 - [8d-nested_Loop_Clock_Seconds.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051510/8d-nested_Loop_Clock_Seconds.txt)
 
+- [8e-nested_Loop_Clock_Minutes.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051583/8e-nested_Loop_Clock_Minutes.txt)
 
 
 
