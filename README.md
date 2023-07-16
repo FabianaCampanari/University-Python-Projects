@@ -7,10 +7,10 @@
 
 #
 
+##### <p align="center"> ✫ I love Code 🤍 I love you 
+
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/efc69b69-fb61-4938-9409-480eaa0f1165" /> 
-![document-function-coding-7ym5bmzpd6tb5wn3](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/efc69b69-fb61-4938-9409-480eaa0f1165)
-
 
 #
   
