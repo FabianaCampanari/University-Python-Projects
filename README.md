@@ -69,6 +69,7 @@
 
 - [9b-for_Range_Decreasing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064536/9b-for_Range_Decreasing.txt)
 
+- [9c-for_Tuples.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064541/9c-for_Tuples.txt)
 
 
  
