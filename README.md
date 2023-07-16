@@ -71,7 +71,10 @@
 
 - [9c-for_Tuples.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064541/9c-for_Tuples.txt)
 
+- [9d-while_List_Index.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064553/9d-while_List_Index.txt)
 
+
+  
  
 #  
 
