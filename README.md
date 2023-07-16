@@ -67,6 +67,7 @@
 
 - [9a-for_Range_Step.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064530/9a-for_Range_Step.txt)
 
+- [9b-for_Range_Decreasing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064536/9b-for_Range_Decreasing.txt)
 
 
 
