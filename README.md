@@ -7,7 +7,7 @@
 
 #
 
-##### <p align="center">  I Love Code ❥ I Love You 
+##### <p align="center">   ❥ I Love Code, I Love You  ❥ 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/efc69b69-fb61-4938-9409-480eaa0f1165" /> 
