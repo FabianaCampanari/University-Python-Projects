@@ -84,6 +84,7 @@
 
 - [9f-for_List_Print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066035/9f-for_List_Print.txt)
 
+- [9g-for_List_Range_evenNumbers_oddNumbers.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066049/9g-for_List_Range_evenNumbers_oddNumbers.txt)
 
 
 
