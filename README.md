@@ -82,6 +82,7 @@
 
 - [9e-for_List_Range_Append().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066024/9e-for_List_Range_Append.txt)
 
+- [9f-for_List_Print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066035/9f-for_List_Print.txt)
 
 
 
