@@ -88,6 +88,7 @@
 
 - [9h-list_Methods_Id()_Format().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066066/9h-list_Methods_Id._Format.txt)
 
+- [10-list_Functions_Len()_Sum()_Min()_Max().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066072/10-list_Functions_Len._Sum._Min._Max.txt)
 
 
 
