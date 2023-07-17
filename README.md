@@ -86,7 +86,6 @@
 
   [9h-list_Methods_Id()_Format().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12065987/9h-list_Methods_Id._Format.txt)
 
-
   
  
 #  
