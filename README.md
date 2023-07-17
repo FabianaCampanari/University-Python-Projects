@@ -80,6 +80,7 @@
 
 - [9d-while_List_Index.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064553/9d-while_List_Index.txt)
 
+- [9e-for_List_Range_Append().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066024/9e-for_List_Range_Append.txt)
 
 
 
