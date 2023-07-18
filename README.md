@@ -90,6 +90,7 @@
 
 - [10-list_Functions_Len()_Sum()_Min()_Max().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066072/10-list_Functions_Len._Sum._Min._Max.txt)
 
+- [10a-sequence_Menbership_Operation.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076091/10a-sequence_Menbership_Operation.txt)
 
 
 
