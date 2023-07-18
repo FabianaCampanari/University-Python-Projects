@@ -92,7 +92,6 @@
 
 - [10a-sequence_Menbership_Operation.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076091/10a-sequence_Menbership_Operation.txt)
 
-- [10b-list_Access[]_Modify=_methodAdd()_methodRemove()_ITEMS.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076098/10b-list_Access._Modify._methodAdd._methodRemove._ITEMS.txt)
 
 
 
