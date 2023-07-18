@@ -94,6 +94,10 @@
 
 - [10b-list_Access_Modify_methodAdd_methodRemove.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076152/10b-list_Access_Modify_methodAdd_methodRemove.txt)
 
+- [10c-list_Methods_Index()_Inset()_Pop()_Extend().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076169/10c-list_Methods_Index._Inset._Pop._Extend.txt)
+
+
+
 
 
 
