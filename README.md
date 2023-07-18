@@ -98,6 +98,7 @@
 
 - [10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076421/10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt)
 
+- [10e-list_Sequence_Slicing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076452/10e-list_Sequence_Slicing.txt)
 
 
 
