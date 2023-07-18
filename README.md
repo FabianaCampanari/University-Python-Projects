@@ -96,6 +96,7 @@
 
 - [10c-list_Methods_Index_Insert_Pop_Extend.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076210/10c-list_Methods_Index_Insert_Pop_Extend.txt)
 
+- [10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076421/10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt)
 
 
 
