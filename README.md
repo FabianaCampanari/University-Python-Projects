@@ -100,6 +100,7 @@
 
 - [10e-list_Sequence_Slicing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076452/10e-list_Sequence_Slicing.txt)
 
+- [10f-list_Functions_sideEffect_withoutSideEffects.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116067/10f-list_Functions_sideEffect_withoutSideEffects.txt)
 
 
 
