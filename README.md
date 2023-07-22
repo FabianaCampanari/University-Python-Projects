@@ -137,7 +137,7 @@
 #
 
 
-##### <p align="center"> 🫧 Bubble Sort Algoritmo Animation. 🫧 </p>
+##### <p align="center"> 🫧 Bubble Sort Algorithm Behavior Animation. 🫧 </p>
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/b9d4deb2-5260-40ef-9d51-76705efc7536" /> 
