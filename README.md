@@ -106,6 +106,9 @@
 
 - [11-list_functionLog()_binarySearch_linearSearch.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116309/11-list_functionLog._binarySearch_linearSearch.txt)
 
+- [12-sequence_Calculate_Avarege.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136751/12-sequence_Calculate_Avarege.txt)
+
+
 
 
   
