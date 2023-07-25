@@ -42,21 +42,21 @@
   
   - [6e-function_Return_Print.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11713801/6e-function_Return_Print.txt)
 
-- [6f-function_Return_Value.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996156/6f-function_Return_Value.txt)
+  - [6f-function_Return_Value.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996156/6f-function_Return_Value.txt)
 
-- [6g-function_Parameteres.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996163/6g-function_Parameteres.txt)
+  - [6g-function_Parameteres.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996163/6g-function_Parameteres.txt)
 
-- [7-while_.Counter_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996164/7-while_.Counter_Variable.txt)
+  - [7-while_.Counter_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996164/7-while_.Counter_Variable.txt)
 
-- [7a-while_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996250/7a-while_Accumulator_Variable.txt)
+  - [7a-while_Accumulator_Variable .txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996250/7a-while_Accumulator_Variable.txt)
 
-- [7b-while_Boolean_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996269/7b-while_Boolean_Variable.txt)
+  - [7b-while_Boolean_Variable.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996269/7b-while_Boolean_Variable.txt)
 
-- [7c-fstring_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996274/7c-fstring_Formatting.txt)
+  - [7c-fstring_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11996274/7c-fstring_Formatting.txt)
 
-- [7d-.2f_String_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031330/7d-.2f_String_Formatting.txt)
+  - [7d-.2f_String_Formatting.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031330/7d-.2f_String_Formatting.txt)
 
-- [8-while_If_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031351/8-while_If_Break.txt)
+  - [8-while_If_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031351/8-while_If_Break.txt)
 
 - [8a-whiile_If_Else_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031489/8a-whiile_If_Else_Break.txt)
 
