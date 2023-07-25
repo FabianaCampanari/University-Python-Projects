@@ -82,13 +82,13 @@
 
   - [9e-for_List_Range_Append().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066024/9e-for_List_Range_Append.txt)
 
-- [9f-for_List_Print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066035/9f-for_List_Print.txt)
+  - [9f-for_List_Print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066035/9f-for_List_Print.txt)
 
-- [9g-for_List_Range_evenNumbers_oddNumbers.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066049/9g-for_List_Range_evenNumbers_oddNumbers.txt)
+  - [9g-for_List_Range_evenNumbers_oddNumbers.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066049/9g-for_List_Range_evenNumbers_oddNumbers.txt)
 
-- [9h-list_Methods_Id()_Format().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066066/9h-list_Methods_Id._Format.txt)
+  - [9h-list_Methods_Id()_Format().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066066/9h-list_Methods_Id._Format.txt)
 
-- [10-list_Functions_Len()_Sum()_Min()_Max().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066072/10-list_Functions_Len._Sum._Min._Max.txt)
+  - [10-list_Functions_Len()_Sum()_Min()_Max().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066072/10-list_Functions_Len._Sum._Min._Max.txt)
 
 - [10a-sequence_Menbership_Operation.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076091/10a-sequence_Menbership_Operation.txt)
 
