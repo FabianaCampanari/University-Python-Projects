@@ -58,17 +58,17 @@
 
   - [8-while_If_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031351/8-while_If_Break.txt)
 
-- [8a-whiile_If_Else_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031489/8a-whiile_If_Else_Break.txt)
+  - [8a-whiile_If_Else_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12031489/8a-whiile_If_Else_Break.txt)
 
-- [8b-while_If_Continue.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12032067/8b-while_If_Continue.txt)
+  - [8b-while_If_Continue.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12032067/8b-while_If_Continue.txt)
 
-- [8c-while_Repeat_Until_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12032270/8c-while_Repeat_Until_Break.txt)
+  - [8c-while_Repeat_Until_Break.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12032270/8c-while_Repeat_Until_Break.txt)
 
-- [8d-nested_Loop_Clock_Seconds.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051510/8d-nested_Loop_Clock_Seconds.txt)
+  - [8d-nested_Loop_Clock_Seconds.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051510/8d-nested_Loop_Clock_Seconds.txt)
 
-- [8e-nested_Loop_Clock_Minutes.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051583/8e-nested_Loop_Clock_Minutes.txt)
+  - [8e-nested_Loop_Clock_Minutes.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051583/8e-nested_Loop_Clock_Minutes.txt)
 
-- [8f-nested_Loop_Clock_Hours.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051610/8f-nested_Loop_Clock_Hours.txt)
+  - [8f-nested_Loop_Clock_Hours.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051610/8f-nested_Loop_Clock_Hours.txt)
 
 - [9-for_Range_Increasing-.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064506/9-for_Range_Increasing-.txt)
 
