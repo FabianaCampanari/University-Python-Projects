@@ -104,13 +104,13 @@
 
   - [10g-list_passingObject_byValue_byReference.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116097/10g-list_passingObject_byValue_byReference.txt)
 
-- [11-list_functionLog_binarySearch_linearSearch.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136786/11-list_functionLog_binarySearch_linearSearch.txt)
+  - [11-list_functionLog_binarySearch_linearSearch.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136786/11-list_functionLog_binarySearch_linearSearch.txt)
 
-- [12-sequence_Calculate_Avarege.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136751/12-sequence_Calculate_Avarege.txt)
+  - [12-sequence_Calculate_Avarege.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136751/12-sequence_Calculate_Avarege.txt)
 
-- [12a-matrix_Nested_List.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12165298/12a-matrix_Nested_List.txt)
+  - [12a-matrix_Nested_List.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12165298/12a-matrix_Nested_List.txt)
 
-- [12b-function_Matrix_Loop_Grade.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12165323/12b-function_Matrix_Loop_Grade.txt)
+  - [12b-function_Matrix_Loop_Grade.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12165323/12b-function_Matrix_Loop_Grade.txt)
 
 
 
