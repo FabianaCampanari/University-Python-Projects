@@ -90,19 +90,19 @@
 
   - [10-list_Functions_Len()_Sum()_Min()_Max().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066072/10-list_Functions_Len._Sum._Min._Max.txt)
 
-- [10a-sequence_Menbership_Operation.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076091/10a-sequence_Menbership_Operation.txt)
+  - [10a-sequence_Menbership_Operation.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076091/10a-sequence_Menbership_Operation.txt)
 
-- [10b-list_Access_Modify_methodAdd_methodRemove.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076152/10b-list_Access_Modify_methodAdd_methodRemove.txt)
+  - [10b-list_Access_Modify_methodAdd_methodRemove.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076152/10b-list_Access_Modify_methodAdd_methodRemove.txt)
 
-- [10c-list_Methods_Index_Insert_Pop_Extend.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076210/10c-list_Methods_Index_Insert_Pop_Extend.txt)
+  - [10c-list_Methods_Index_Insert_Pop_Extend.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076210/10c-list_Methods_Index_Insert_Pop_Extend.txt)
 
-- [10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076421/10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt)
+  - [10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076421/10d-list_Concatenation_Repetition_repetitionNestedList_modificationInternalList.txt)
 
-- [10e-list_Sequence_Slicing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076452/10e-list_Sequence_Slicing.txt)
+  - [10e-list_Sequence_Slicing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12076452/10e-list_Sequence_Slicing.txt)
 
-- [10f-list_Functions_sideEffect_withoutSideEffects.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116067/10f-list_Functions_sideEffect_withoutSideEffects.txt)
+  - [10f-list_Functions_sideEffect_withoutSideEffects.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116067/10f-list_Functions_sideEffect_withoutSideEffects.txt)
 
-- [10g-list_passingObject_byValue_byReference.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116097/10g-list_passingObject_byValue_byReference.txt)
+  - [10g-list_passingObject_byValue_byReference.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12116097/10g-list_passingObject_byValue_byReference.txt)
 
 - [11-list_functionLog_binarySearch_linearSearch.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136786/11-list_functionLog_binarySearch_linearSearch.txt)
 
