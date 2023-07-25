@@ -108,6 +108,9 @@
 
 - [12-sequence_Calculate_Avarege.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12136751/12-sequence_Calculate_Avarege.txt)
 
+- [12a-matrix_Nested_List.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12165298/12a-matrix_Nested_List.txt)
+
+
 
 
 
