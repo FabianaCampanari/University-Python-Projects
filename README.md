@@ -70,17 +70,17 @@
 
   - [8f-nested_Loop_Clock_Hours.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12051610/8f-nested_Loop_Clock_Hours.txt)
 
-- [9-for_Range_Increasing-.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064506/9-for_Range_Increasing-.txt)
+  - [9-for_Range_Increasing-.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064506/9-for_Range_Increasing-.txt)
 
-- [9a-for_Range_Step.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064530/9a-for_Range_Step.txt)
+  - [9a-for_Range_Step.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064530/9a-for_Range_Step.txt)
 
-- [9b-for_Range_Decreasing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064536/9b-for_Range_Decreasing.txt)
+  - [9b-for_Range_Decreasing.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064536/9b-for_Range_Decreasing.txt)
 
-- [9c-for_Tuples.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064541/9c-for_Tuples.txt)
+  - [9c-for_Tuples.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064541/9c-for_Tuples.txt)
 
-- [9d-while_List_Index.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064553/9d-while_List_Index.txt)
+  - [9d-while_List_Index.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12064553/9d-while_List_Index.txt)
 
-- [9e-for_List_Range_Append().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066024/9e-for_List_Range_Append.txt)
+  - [9e-for_List_Range_Append().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066024/9e-for_List_Range_Append.txt)
 
 - [9f-for_List_Print().txt](https://github.com/FabianaCampanari/University-Python-Projects/files/12066035/9f-for_List_Print.txt)
 
