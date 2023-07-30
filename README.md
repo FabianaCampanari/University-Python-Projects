@@ -132,7 +132,7 @@
  
 #  
 
-## <p align="center"> ✫ Best elucidative explanation of modulo division by remainder (%) ✫
+## <p align="center"> 🎖 Best elucidative explanation of modulo division by remainder (%) 
 
 ###### <p align="center"> ✫ by Professor Vitor Furlan de Oliveira ✫ 
 
