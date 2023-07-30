@@ -137,7 +137,7 @@
 
 #
 
-## <p align="center"> 📝 Operator Precedence and Associativity Chart 
+## 📝 Operator Precedence List and Associativity Chart 
 
 ###### <p align="center"> ✫ Arithmetic, Relational, and Boolean Operators ✫ 
 
