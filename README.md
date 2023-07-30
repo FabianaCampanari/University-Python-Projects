@@ -141,7 +141,7 @@
 
 #
 
-##### <p align="center"> ✫ Operator Precedence and Associativity Chart for Arithmetic, Relational, and Logical (Boolean) Operators ✫ 
+##### <p align="center"> 📝 Operator Precedence and Associativity Chart 
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/67a48cb0-89a4-4c4b-a12e-b2e53b62d997" />
