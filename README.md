@@ -144,7 +144,7 @@
 
 #
 
-## 📋 Equivalent Logical Expressions
+## 📋 Equivalent Logical Expressions List
 
 <p align="center">
 <img src=
