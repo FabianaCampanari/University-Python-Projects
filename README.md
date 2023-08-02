@@ -147,7 +147,10 @@
 ## 📋 Equivalent Logical Expressions List
 
 <p align="center">
-<img src=
+<img src=""/>
+
+![2-Expresses lógicas equivalentes](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/5949c02e-7231-44a7-988a-fde4093e2ca9)
+
 
 
 #
