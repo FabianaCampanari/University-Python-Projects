@@ -3,11 +3,14 @@
 
 ✨ This repository contains some codes that I developed in Python in the 1st - 2nd Semester of the Programming Language course of the Undergraduate in Systems Analysis and Development at Impacta University, São Paulo, Brazil 🇧🇷. Here you will find examples of code, exercises, challenges and solutions for various problems. The codes cover topics such as data analysis, programming and more. I hope you enjoy and learn from my codes.
 
-<p align="center"> < studying with love & joy /> 🤍
+<p align="center"> < studying with vibe, frequency and & joy /> 🤍
 
 #
 
-### <p align="center">    I Love Code ❦ I Love You   
+### <p align="center">  I Love Code ❦ I Love You   
+
+![py_header](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/feb66394-a901-49b7-a74c-351d19800eb9)
+
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/efc69b69-fb61-4938-9409-480eaa0f1165" /> 
