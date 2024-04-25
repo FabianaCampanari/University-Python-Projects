@@ -9,11 +9,9 @@
 
 ### <p align="center">  I Love Code ❦ I Love You   
 
-![py_header](https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/feb66394-a901-49b7-a74c-351d19800eb9)
-
 
 <p align="center">
-<img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/efc69b69-fb61-4938-9409-480eaa0f1165" /> 
+<img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/feb66394-a901-49b7-a74c-351d19800eb9" /> 
 
 #
   
