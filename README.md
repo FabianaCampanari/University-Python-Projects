@@ -162,6 +162,4 @@
 
 #
 
-##### <p align="center"> ⚖︎ This repository is licensed under the Apachace 2.0 License.  </p>
 
-##### <p align="center">Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
