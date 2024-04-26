@@ -1,0 +1,4 @@
+# feat(gradle-wrapper): update artifacts
+
+* text=auto eol=lf
+*.bat text eol=crlf
