@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/feb66394-a901-49b7-a74c-351d19800eb9" /> 
 
-<br>
+<br><br>
 
 ***<p align="center"> < made with vibe, frequency and & joy />*** 🪬
 
