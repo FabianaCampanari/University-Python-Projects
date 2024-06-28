@@ -18,6 +18,13 @@
 
 <br><br>
 
+##   🫧 Bubble's Sort Algorithm - Behavior Animation
+
+<p align="center">
+<img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/b9d4deb2-5260-40ef-9d51-76705efc7536" /> 
+
+
+
 ## 🐍  Programs and Commands in Python 
   
   - [1-show_Numbers_Screen.txt](https://github.com/FabianaCampanari/University-Python-Projects/files/11672246/1-show_Numbers_Screen.txt)
@@ -152,13 +159,6 @@
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/5949c02e-7231-44a7-988a-fde4093e2ca9"/>
-
-#
-
-##   🫧 Bubble's Sort Algorithm - Behavior Animation
-
-<p align="center">
-<img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/b9d4deb2-5260-40ef-9d51-76705efc7536" /> 
 
 #
 
