@@ -20,9 +20,12 @@
 
 ##   🫧 Bubble's Sort Algorithm - Behavior Animation
 
+<br>
+
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/b9d4deb2-5260-40ef-9d51-76705efc7536" /> 
 
+<br>
 
 
 ## 🐍  Programs and Commands in Python 
