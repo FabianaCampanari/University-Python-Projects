@@ -162,6 +162,5 @@
 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the Apache Lincese.](https://github.com/FabianaCampanari/University-Python-Projects/blob/60e427209cafe72c3297f0d8ecd51747487e48a9/LICENSE
-)
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the Apache Lincese.](https://github.com/FabianaCampanari/University-Python-Projects/blob/60e427209cafe72c3297f0d8ecd51747487e48a9/LICENSE)
 
