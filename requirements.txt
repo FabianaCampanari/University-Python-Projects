@@ -12,7 +12,7 @@ scikit-learn==1.5.0
 
 # Bibliotecas para machine learning
 tensorflow==2.12.1
-keras==2.6
+keras==2.13.1
 
 # Bibliotecas para processamento de linguagem natural
 nltk==3.8.1
