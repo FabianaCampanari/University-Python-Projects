@@ -10,14 +10,6 @@ seaborn==0.11.2
 scipy==1.11.1
 scikit-learn==1.5.0
 
-# Bibliotecas para machine learning
-tensorflow==2.12.1
-keras==2.13.1
-
-# Bibliotecas para processamento de linguagem natural
-nltk==3.8.1
-spacy==3.1.3
-
 # Bibliotecas para web scraping
 beautifulsoup4==4.10.0
 requests==2.32.2
